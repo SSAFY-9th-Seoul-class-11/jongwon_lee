@@ -17,11 +17,8 @@
   * [1860. 진기의 최고급 붕어빵](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/SWEA/1860_%EC%A7%84%EA%B8%B0%EC%9D%98%20%EC%B5%9C%EA%B3%A0%EA%B8%89%20%EB%B6%95%EC%96%B4%EB%B9%B5%20(D3)/Solution.java)
   * [1249. 보급로]()
 * BOJ(DFS/BFS)
-<<<<<<< HEAD
-  * [1260. DFS와 BFS]()
-=======
   * [1260. DFS와 BFS](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dfs%2C%20bfs/1260.%20DFS%EC%99%80%20BFS/Main.java)
->>>>>>> e3ae1aa3ce9a9a32896cbd9d9c44d28165045e15
+  * [1012. 유기농 배추](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dfs%2C%20bfs/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/Main.java)  
 ## 4주차
 * SWEA
 * BOJ
