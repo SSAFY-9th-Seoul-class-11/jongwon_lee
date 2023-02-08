@@ -24,7 +24,7 @@
 * BOJ
 ## 5주차
 * SWEA
-  * [9940. 순열1]()
+  * [9940. 순열1](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/SWEA/9940_%EC%88%9C%EC%97%B41/Solution.java)
   * [2819. 격자판의 숫자 이어 붙이기]()
 * BOJ(이분 탐색)
   * [1011. Fly me to the Alpha Centauri]()
