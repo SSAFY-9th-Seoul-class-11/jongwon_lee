@@ -27,5 +27,5 @@
   * [9940. 순열1](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/SWEA/9940_%EC%88%9C%EC%97%B41/Solution.java)
   * [2819. 격자판의 숫자 이어 붙이기](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/SWEA/2819_%EA%B2%A9%EC%9E%90%ED%8C%90%EC%9D%98%20%EC%88%AB%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%9D%B4%EA%B8%B0/Solution.java)
 * BOJ(이분 탐색)
-  * [1011. Fly me to the Alpha Centauri]()
+  * [1011. Fly me to the Alpha Centauri](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1011.%20Fly%20me%20to%20the%20Alpha%20Centauri/Main.java)
   * [6209. 제자리 멀리뛰기]()
