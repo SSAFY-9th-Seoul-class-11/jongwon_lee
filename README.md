@@ -29,10 +29,10 @@
 * BOJ(이분 탐색)
   * [1011. Fly me to the Alpha Centauri](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/1011.%20Fly%20me%20to%20the%20Alpha%20Centauri/Main.java)
   * [6209. 제자리 멀리뛰기]
-  ## 6주차
+## 6주차
 * SWEA
   * [1868. 파핑파핑 지뢰찾기]
   * [5248. 그룹나누기]
 * BOJ(Dynamic Programming)
-  * [9465. 스티커]()
+  * [9465. 스티커](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dp/9465.%20%EC%8A%A4%ED%8B%B0%EC%BB%A4/Main.java)
   * [2565. 전깃줄]
