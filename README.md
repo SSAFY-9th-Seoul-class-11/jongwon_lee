@@ -35,4 +35,4 @@
   * [5248. 그룹나누기]
 * BOJ(Dynamic Programming)
   * [9465. 스티커](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dp/9465.%20%EC%8A%A4%ED%8B%B0%EC%BB%A4/Main.java)
-  * [2565. 전깃줄]
+  * [2565. 전깃줄](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dp/2565.%20%EC%A0%84%EA%B9%83%EC%A4%84/Main.java)
