@@ -39,4 +39,4 @@
 ## 7주차
 * SWEA
 * BOJ(DFS/BFS)
-  * 2178. 미로탐색 [문제](https://www.acmicpc.net/problem/2178) / [코드](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dfs%2C%20bfs/2178.%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89/Main.java)
+  * [2178. 미로탐색] - [문제](https://www.acmicpc.net/problem/2178) / [코드](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dfs%2C%20bfs/2178.%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89/Main.java)
