@@ -59,7 +59,7 @@ public class Main {
 		System.out.println(min);
 	}
 
-	// 순서 조합 구하는 메서드
+	// 순열 구하는 메서드
     private static void permutation(int cnt) {  // cnt는 순열의 현재 위치(배열의 인덱스)
     	if(cnt==K) {
     		function();
