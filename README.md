@@ -75,4 +75,4 @@ _since 2023/1/13_
     
 - BOJ
   - [10942. 팰린드롬? : [문제](https://www.acmicpc.net/problem/10942) / [코드](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dp/10942.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/Main.java)]
-  - [20040. 사이클 게임 : [문제](https://www.acmicpc.net/problem/20040) / [코드]()]
+  - [20040. 사이클 게임 : [문제](https://www.acmicpc.net/problem/20040) / [코드](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/union%20find/20040.%20%EC%82%AC%EC%9D%B4%ED%81%B4%20%EA%B2%8C%EC%9E%84/Main.java)]
