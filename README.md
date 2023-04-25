@@ -74,5 +74,5 @@ _since 2023/1/13_
 ## 14주차
     
 - BOJ
-  - [10942. 팰린드롬? : [문제](https://www.acmicpc.net/problem/10942) / [코드]()]
+  - [10942. 팰린드롬? : [문제](https://www.acmicpc.net/problem/10942) / [코드](https://github.com/SSAFY-9th-Seoul-class-11/jongwon_lee/blob/main/BOJ/dp/10942.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/Main.java)]
   - [20040. 사이클 게임 : [문제](https://www.acmicpc.net/problem/20040) / [코드]()]
